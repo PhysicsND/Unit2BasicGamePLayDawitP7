@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
 
         // Move player
         transform.Translate(Vector3.right * speed * Time.deltaTime * horizontalInput);
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKey(KeyCode.Space))
         {
             Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
         }
