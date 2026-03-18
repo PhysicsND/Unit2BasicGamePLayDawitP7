@@ -5582,7 +5582,7 @@ GameObject:
   - component: {fileID: 4946420094508266588}
   m_Layer: 0
   m_Name: Dog_GermanShepherd_01
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5705,8 +5705,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.13625741, y: 0.7252397, z: 0.6353642}
-  m_Center: {x: 0.023184085, y: -0.13738076, z: -0.1823189}
+  m_Size: {x: 0.22464013, y: 1.2033856, z: 0.64786005}
+  m_Center: {x: -0.021007229, y: 0.101691626, z: -0.17607093}
 --- !u!1 &8588382862872351777
 GameObject:
   m_ObjectHideFlags: 0

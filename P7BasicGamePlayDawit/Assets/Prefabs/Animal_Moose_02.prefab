@@ -719,7 +719,7 @@ GameObject:
   - component: {fileID: 2960261119486527195}
   m_Layer: 0
   m_Name: Animal_Moose_02
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -815,8 +815,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.32513198, y: 0.7538995, z: 1.1777889}
-  m_Center: {x: -0.039135564, y: -0.12305529, z: -0.33327278}
+  m_Size: {x: 0.32513198, y: 1.6947471, z: 1.2609632}
+  m_Center: {x: -0.039135564, y: 0.34736347, z: -0.29168662}
 --- !u!1 &7899952370313580904
 GameObject:
   m_ObjectHideFlags: 0
